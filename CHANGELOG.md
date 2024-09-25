@@ -1,4 +1,8 @@
-# Bug Fixes
+## Bug Fixes
 
-- “Developer Mode” is no longer required.
-- Now you can access “iCloud Drive” from TrollFools.
+- Now application without a short version string will be displayed in the list (#72).
+- The auto-correction for the app search has been disabled (#78).
+
+## Languages
+
+- Added Vietnamese (#71, #74).
